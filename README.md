@@ -10,4 +10,6 @@ All of this was made to work with default api, any executor.
 
 Tried my best to include all the textures and other resources, might have lost track of some over the years.
 
+Zip file includes update log
+
 Have fun trying to read this monster
